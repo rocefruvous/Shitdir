@@ -1,0 +1,2 @@
+# Shitdir
+shitty file explorer
